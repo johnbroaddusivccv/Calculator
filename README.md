@@ -1,9 +1,10 @@
 A Mimic Calculator
-===
+=========
+***
 
 
 Using CSS & JavaScript
-=
+---------
 
 
 
